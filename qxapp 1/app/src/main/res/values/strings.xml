@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TracKing</string><!-- App的名字-->
+    <string name="hello">你好</string>
+    <string name="hello1">welcome to TracKing</string><!-- Splash界面显示的文字-->
+    <string name="google_map_key">AIzaSyC620m1Tfm_Y6f31bQ0ye0UEzDBndhCzlI</string><!-- Google Map key-->
+    <string name="google_map_api_key">AIzaSyBU-34oQFX1DcovPdtwyueol0DoVzTLlkk</string><!-- Google Map key-->
+</resources>
